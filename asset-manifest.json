@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https.//nathqnleee.github.io/personal-portfolio/static/css/main.aa12e06b.css",
+    "main.js": "/https.//nathqnleee.github.io/personal-portfolio/static/js/main.c2f7fa65.js",
+    "static/js/787.046782ba.chunk.js": "/https.//nathqnleee.github.io/personal-portfolio/static/js/787.046782ba.chunk.js",
+    "index.html": "/https.//nathqnleee.github.io/personal-portfolio/index.html",
+    "main.aa12e06b.css.map": "/https.//nathqnleee.github.io/personal-portfolio/static/css/main.aa12e06b.css.map",
+    "main.c2f7fa65.js.map": "/https.//nathqnleee.github.io/personal-portfolio/static/js/main.c2f7fa65.js.map",
+    "787.046782ba.chunk.js.map": "/https.//nathqnleee.github.io/personal-portfolio/static/js/787.046782ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa12e06b.css",
+    "static/js/main.c2f7fa65.js"
+  ]
+}
