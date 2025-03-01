@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
+import resumeLink from './Nathan_Lee_Resume.pdf';
 
 function App() {
-  const phrases = ["CS + Business @ UBC", "Software Developer", "Always striving to make impact"];
+  const phrases = ["CS + Business @ UBC", "Software Engineer", "Always striving to make impact"];
   const [currentPhrase, setCurrentPhrase] = useState('');
   const [isDeleting, setIsDeleting] = useState(false);
   const [loopNum, setLoopNum] = useState(0);
@@ -45,7 +46,8 @@ function App() {
         <div className="links">
             <a href="https://www.linkedin.com/in/nathan-lee03/">LinkedIn</a>
             <a href="https://github.com/nathqnleee">GitHub</a>
-            <a href="mailto:nsjlee33@hotmail.com">Email</a> 
+            <a href="mailto:nathanlee033@outlook.com">Email</a> 
+            <a href={resumeLink} target="_blank" rel="noopener noreferrer">Resume</a>
         </div>
       </header>
     </div>
